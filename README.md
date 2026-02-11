@@ -19,4 +19,4 @@ print("Hellow World!")
 
 - [ ] task one
 - [ ] task two
-- [ ] task three
+- [x] task three
